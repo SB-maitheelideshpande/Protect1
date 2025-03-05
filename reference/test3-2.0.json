@@ -5,7 +5,8 @@
   },
   "info": {
     "title": "test3-2.0",
-    "version": "1.0"
+    "version": "1.0",
+    "description": ""
   },
   "host": "localhost:3000",
   "schemes": [
