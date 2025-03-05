@@ -4,6 +4,7 @@ x-stoplight:
 info:
   version: '1.0'
   title: xids
+  description: file updated
 servers:
   - url: 'http://localhost:3000'
 paths:
